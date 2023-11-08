@@ -17,5 +17,9 @@
     "url": "https://github.com/Saneeitas/graphql-crash-course/issues"
   },
   "homepage": "https://github.com/Saneeitas/graphql-crash-course#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.9.5",
+    "graphql": "^16.8.1"
+  }
 }
